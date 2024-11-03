@@ -1,0 +1,25 @@
+.Pokecard {
+    border: 1px solid rgb(132, 129, 129);
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+    margin: 20px;
+    background-color: rgb(197, 192, 192);
+}
+
+.Pokecard-title {
+    font-size: 1.2em;
+    color: rgb(71, 45, 219);
+    font-family: bold;
+    margin-bottom: 10px;
+}
+
+.Pokecard img {
+    width: 100px;
+    height: 80px;
+    border-radius: 50%;
+    /* Makes the image circular */
+    margin: 10px 0;
+}
